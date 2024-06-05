@@ -28,19 +28,12 @@ Les principaux bénéfices attendus de ce projet incluent
 Infrastructure CLOUD
     
     
- Serveur AD/DHCP : 
->Installation et configuration d'un serveur pour gérer les services Active Directory et DHCP, avec quatre comptes à créer groupe de sécurité
-(commercial, administratif, assistant, chef).
-    
-    
-Serveur de fichiers : 
->Mise en place d'un serveur de fichiers avec une arborescence contenant quatre dossiers principaux (Direction, Commerce, Commande, Vie d’entreprise) et des règles d'accès spécifiques pour chaque utilisateur.
-    
-    
-Serveur applicatif : 
->Configuration d'un serveur pour les applications accessibles via HTTPS, réservé aux chefs et aux commerciaux.
-Postes clients : 
->Préparation de quatre postes clients sous Windows 10 ou 11.
+ Serveur général :
+
+>Un serveur AD/DHCP pour gérer les utilisateurs et les adresses IP.
+>Un serveur de fichiers pour stocker les données de l'entreprise.
+>Un serveur applicatif pour héberger les applications nécessaires.
+
 
 **Sécurité**
 
