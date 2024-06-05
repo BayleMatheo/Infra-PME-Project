@@ -30,9 +30,10 @@ Infrastructure CLOUD
     
  Serveur général :
 
->Un serveur AD/DHCP pour gérer les utilisateurs et les adresses IP.
->Un serveur de fichiers pour stocker les données de l'entreprise.
->Un serveur applicatif pour héberger les applications nécessaires.
+>Fonctionnalités :
+> - AD/DHCP
+> - Partage de fichiers
+> - Serveur applicatif
 
 
 **Sécurité**
